@@ -1,0 +1,1 @@
+Applied Fuzzy C-Means clustering on NASA MERRA-2 satellite data to identify solar radiation patterns, analyzed irradiance, temperature, and electricity variables to distinguish clear and cloudy day conditions
